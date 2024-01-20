@@ -1,0 +1,8 @@
+D:\CSharp\peactice_1\Array\bin\Debug\Array.exe.config
+D:\CSharp\peactice_1\Array\bin\Debug\Array.exe
+D:\CSharp\peactice_1\Array\bin\Debug\Array.pdb
+D:\CSharp\peactice_1\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+D:\CSharp\peactice_1\Array\obj\Debug\Array.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\peactice_1\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+D:\CSharp\peactice_1\Array\obj\Debug\Array.exe
+D:\CSharp\peactice_1\Array\obj\Debug\Array.pdb

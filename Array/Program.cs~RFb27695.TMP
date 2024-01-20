@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Array
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] fees = new int[3];
+            fees[0] = 1200;
+            fees[1] = 1400;
+            fees[2] = 110;
+            for(int i=0; i< fees.Length; i++)
+            {
+                Console.Write($"{fees[i]} ");
+
+            }
+            Console.ReadLine();
+        }
+    }
+}
