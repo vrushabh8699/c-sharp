@@ -14,20 +14,20 @@ namespace is_and_as
 
 
             Console.WriteLine("enter a values");
-            int a = int.Parse(Console.ReadLine());
+            int aa = int.Parse(Console.ReadLine());
 
             Console.WriteLine("enter b values");
-            int b = int.Parse(Console.ReadLine());
-            Studant(a,b);
+            int bb = int.Parse(Console.ReadLine());
+            Studant(aa,bb);
 
 
 
 
             Console.ReadLine();
         }
-        static void Studant(int a, int b)
+        static void Studant(int aa, int bb)
         {
-            int result = a + b;
+            int result = aa + bb;
             Console.WriteLine($"addition: {result}");
 
 
