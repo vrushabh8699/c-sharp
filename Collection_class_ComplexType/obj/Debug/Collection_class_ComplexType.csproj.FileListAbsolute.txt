@@ -1,0 +1,8 @@
+D:\CSharp\peactice_1\Collection_class_ComplexType\obj\Debug\Collection_class_ComplexType.csproj.AssemblyReference.cache
+D:\CSharp\peactice_1\Collection_class_ComplexType\obj\Debug\Collection_class_ComplexType.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\peactice_1\Collection_class_ComplexType\obj\Debug\Collection_class_ComplexType.csproj.CoreCompileInputs.cache
+D:\CSharp\peactice_1\Collection_class_ComplexType\bin\Debug\Collection_class_ComplexType.exe.config
+D:\CSharp\peactice_1\Collection_class_ComplexType\bin\Debug\Collection_class_ComplexType.exe
+D:\CSharp\peactice_1\Collection_class_ComplexType\bin\Debug\Collection_class_ComplexType.pdb
+D:\CSharp\peactice_1\Collection_class_ComplexType\obj\Debug\Collection_class_ComplexType.exe
+D:\CSharp\peactice_1\Collection_class_ComplexType\obj\Debug\Collection_class_ComplexType.pdb
