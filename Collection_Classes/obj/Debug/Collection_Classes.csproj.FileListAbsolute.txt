@@ -1,0 +1,7 @@
+D:\CSharp\peactice_1\Collection_Classes\bin\Debug\Collection_Classes.exe.config
+D:\CSharp\peactice_1\Collection_Classes\bin\Debug\Collection_Classes.exe
+D:\CSharp\peactice_1\Collection_Classes\bin\Debug\Collection_Classes.pdb
+D:\CSharp\peactice_1\Collection_Classes\obj\Debug\Collection_Classes.csproj.AssemblyReference.cache
+D:\CSharp\peactice_1\Collection_Classes\obj\Debug\Collection_Classes.csproj.CoreCompileInputs.cache
+D:\CSharp\peactice_1\Collection_Classes\obj\Debug\Collection_Classes.exe
+D:\CSharp\peactice_1\Collection_Classes\obj\Debug\Collection_Classes.pdb
