@@ -1,0 +1,8 @@
+D:\CSharp\peactice_1\const_and_readonly\bin\Debug\const_and_readonly.exe.config
+D:\CSharp\peactice_1\const_and_readonly\bin\Debug\const_and_readonly.exe
+D:\CSharp\peactice_1\const_and_readonly\bin\Debug\const_and_readonly.pdb
+D:\CSharp\peactice_1\const_and_readonly\obj\Debug\const_and_readonly.csproj.AssemblyReference.cache
+D:\CSharp\peactice_1\const_and_readonly\obj\Debug\const_and_readonly.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\peactice_1\const_and_readonly\obj\Debug\const_and_readonly.csproj.CoreCompileInputs.cache
+D:\CSharp\peactice_1\const_and_readonly\obj\Debug\const_and_readonly.exe
+D:\CSharp\peactice_1\const_and_readonly\obj\Debug\const_and_readonly.pdb
