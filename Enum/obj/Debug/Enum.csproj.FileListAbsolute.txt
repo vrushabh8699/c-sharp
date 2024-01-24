@@ -1,0 +1,7 @@
+D:\CSharp\peactice_1\Enum\bin\Debug\Enum.exe.config
+D:\CSharp\peactice_1\Enum\bin\Debug\Enum.exe
+D:\CSharp\peactice_1\Enum\bin\Debug\Enum.pdb
+D:\CSharp\peactice_1\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
+D:\CSharp\peactice_1\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+D:\CSharp\peactice_1\Enum\obj\Debug\Enum.exe
+D:\CSharp\peactice_1\Enum\obj\Debug\Enum.pdb
