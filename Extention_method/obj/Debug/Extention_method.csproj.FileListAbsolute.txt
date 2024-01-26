@@ -1,0 +1,8 @@
+D:\CSharp\peactice_1\Extention_method\bin\Debug\Extention_method.exe.config
+D:\CSharp\peactice_1\Extention_method\bin\Debug\Extention_method.exe
+D:\CSharp\peactice_1\Extention_method\bin\Debug\Extention_method.pdb
+D:\CSharp\peactice_1\Extention_method\obj\Debug\Extention_method.csproj.AssemblyReference.cache
+D:\CSharp\peactice_1\Extention_method\obj\Debug\Extention_method.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\peactice_1\Extention_method\obj\Debug\Extention_method.csproj.CoreCompileInputs.cache
+D:\CSharp\peactice_1\Extention_method\obj\Debug\Extention_method.exe
+D:\CSharp\peactice_1\Extention_method\obj\Debug\Extention_method.pdb
