@@ -1,0 +1,7 @@
+D:\CSharp\peactice_1\Generice\bin\Debug\Generice.exe.config
+D:\CSharp\peactice_1\Generice\bin\Debug\Generice.exe
+D:\CSharp\peactice_1\Generice\bin\Debug\Generice.pdb
+D:\CSharp\peactice_1\Generice\obj\Debug\Generice.csproj.AssemblyReference.cache
+D:\CSharp\peactice_1\Generice\obj\Debug\Generice.csproj.CoreCompileInputs.cache
+D:\CSharp\peactice_1\Generice\obj\Debug\Generice.exe
+D:\CSharp\peactice_1\Generice\obj\Debug\Generice.pdb

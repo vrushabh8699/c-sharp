@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Generice
+{
+    internal class Program
+    {
+        public bool AreEquel(int a, int b)
+        {
+            return a.Equals(b);
+        }
+        public bool AreEquel(string a, string b)
+        {
+            return a.Equals(b);
+        }
+        static void Main(string[] args)
+        {
+            Program c1 = new Program();
+
+            bool b1 = c1.AreEquel(10, 10);
+            Console.WriteLine(b1);
+
+             b1 = c1.AreEquel(11, 10);
+            Console.WriteLine(b1);
+
+
+            b1 = c1.AreEquel("abc","abc");
+            Console.WriteLine(b1);
+
+            Console.ReadLine();
+        }
+    }
+}
