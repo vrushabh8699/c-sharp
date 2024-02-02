@@ -1,0 +1,8 @@
+D:\CSharp\peactice_1\lazy_loading\obj\Debug\lazy_loading.csproj.AssemblyReference.cache
+D:\CSharp\peactice_1\lazy_loading\obj\Debug\lazy_loading.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\peactice_1\lazy_loading\obj\Debug\lazy_loading.csproj.CoreCompileInputs.cache
+D:\CSharp\peactice_1\lazy_loading\bin\Debug\lazy_loading.exe.config
+D:\CSharp\peactice_1\lazy_loading\bin\Debug\lazy_loading.exe
+D:\CSharp\peactice_1\lazy_loading\bin\Debug\lazy_loading.pdb
+D:\CSharp\peactice_1\lazy_loading\obj\Debug\lazy_loading.exe
+D:\CSharp\peactice_1\lazy_loading\obj\Debug\lazy_loading.pdb
