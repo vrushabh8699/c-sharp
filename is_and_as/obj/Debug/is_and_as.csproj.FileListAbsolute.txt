@@ -1,0 +1,7 @@
+D:\CSharp\peactice_1\is_and_as\obj\Debug\is_and_as.csproj.AssemblyReference.cache
+D:\CSharp\peactice_1\is_and_as\obj\Debug\is_and_as.csproj.CoreCompileInputs.cache
+D:\CSharp\peactice_1\is_and_as\bin\Debug\is_and_as.exe.config
+D:\CSharp\peactice_1\is_and_as\bin\Debug\is_and_as.exe
+D:\CSharp\peactice_1\is_and_as\bin\Debug\is_and_as.pdb
+D:\CSharp\peactice_1\is_and_as\obj\Debug\is_and_as.exe
+D:\CSharp\peactice_1\is_and_as\obj\Debug\is_and_as.pdb
