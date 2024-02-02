@@ -1,0 +1,8 @@
+D:\CSharp\peactice_1\partial method\obj\Debug\partial method.csproj.AssemblyReference.cache
+D:\CSharp\peactice_1\partial method\obj\Debug\partial method.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\peactice_1\partial method\obj\Debug\partial method.csproj.CoreCompileInputs.cache
+D:\CSharp\peactice_1\partial method\bin\Debug\partial method.exe.config
+D:\CSharp\peactice_1\partial method\bin\Debug\partial method.exe
+D:\CSharp\peactice_1\partial method\bin\Debug\partial method.pdb
+D:\CSharp\peactice_1\partial method\obj\Debug\partial method.exe
+D:\CSharp\peactice_1\partial method\obj\Debug\partial method.pdb
