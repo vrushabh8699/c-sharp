@@ -1,0 +1,9 @@
+ Console.WriteLine("Enter pi values");
+            int r = int.Parse(Console.ReadLine());
+            float pi = 3.14f;
+            float area = pi * r *r;
+            Console.WriteLine($"Area of Circle : {area}");
+
+            
+
+            Console.ReadLine();
