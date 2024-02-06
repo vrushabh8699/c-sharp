@@ -1,0 +1,20 @@
+ Console.WriteLine("enter gread ");
+            char gread=char.Parse(Console.ReadLine().ToUpper());
+
+            switch (gread)
+            {
+                case 'A':
+                    Console.WriteLine("First class");
+                    break;
+                case 'B':
+                    Console.WriteLine("second class");
+                    break;
+                case 'C':
+                    Console.WriteLine("Third class");
+                    break;
+                default:
+                    Console.WriteLine("invalid");
+                    break;
+            }
+           
+            Console.ReadLine();
