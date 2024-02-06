@@ -1,0 +1,12 @@
+Console.WriteLine("enter int values");
+            int vk = int.Parse(Console.ReadLine());
+
+            if (vk % 2 == 0)
+            {
+                Console.WriteLine("values is even");
+            }
+            else
+            {
+                Console.WriteLine("values is odd");
+            }
+Console.ReadLine();
