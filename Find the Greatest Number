@@ -1,0 +1,14 @@
+            Console.WriteLine("Enter A values");
+            int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter B values");
+            int b = int.Parse(Console.ReadLine());
+
+            if (a > b)
+            {
+                Console.WriteLine("A is Greatest number");
+            }
+            else
+            {
+                Console.WriteLine("B is Greatest number");
+            }
+            Console.ReadLine();
