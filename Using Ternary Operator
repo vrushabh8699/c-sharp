@@ -1,0 +1,10 @@
+            Console.WriteLine("Enter X values");
+            int x = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Y values");
+            int y = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Z values");
+            int z = int.Parse(Console.ReadLine());
+
+            var temp = (x > y ? (x > z ? x : z) : x > z ? x: z);
+            Console.WriteLine($" Gretest number is : {temp}");
+            Console.ReadLine();
