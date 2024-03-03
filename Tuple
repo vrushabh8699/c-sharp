@@ -1,0 +1,30 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Tuple
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Tuple<int, int, int> t1 = 
+                new Tuple<int, int, int>(11, 2212, 13);
+            Console.WriteLine(t1.Item3);
+
+            Tuple<int, int, int, int, int, int, int, Tuple<int, int, int>> t2 = new 
+                Tuple<int, int, int, int, int, int, int, Tuple<int, int, int>>
+                (1, 2, 3, 4, 5, 6, 7,t1);
+
+            Console.WriteLine(t2.Item3);
+            Console.WriteLine(t2.Rest.Item2);
+            Console.WriteLine(t2.Item5);
+
+           
+            Console.ReadLine();
+
+        }
+    }
+}
