@@ -1,0 +1,54 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace yeild_keyworld
+{
+    internal class Program
+    {
+        #region yield key....
+        //static IEnumerable<int> temp()
+        //{
+        //    yield return 11;
+        //    yield return 22;
+        //    yield return 33;
+        //}
+        #endregion yield key....
+
+        static void Main(string[] args)
+        {
+            #region yield key....
+            //foreach (int item in temp())
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            //Console.ReadLine();
+
+            #endregion yield key....
+            //int num = 5;
+
+            #region lambda expression 
+            Predicate<int> del1 = i => i % 2 == 0;
+            Console.WriteLine(del1(12));
+            Console.WriteLine(del1(11));
+
+
+
+            #endregion lambda expression 
+            Console.ReadLine();
+        }
+        #region recursion
+        //static int Factorial(int num)
+        //{
+        //    if(num == 1)
+        //    {
+        //        return num * Factorial(num-1);
+        //    }
+        //}
+        #endregion recursion
+
+    }
+}
