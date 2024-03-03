@@ -1,0 +1,128 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SortingOperator
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            #region reverse sort
+             List<int> number = new List<int> { 1, 6, 3, 4,3 , 2, 7 };
+            // Console.WriteLine("All number****************");
+            // foreach(var item in number)
+            // {
+            //     Console.Write($"{item} ");
+            // };
+            // Console.WriteLine();
+
+
+            // // reverse method-------------
+            // Console.WriteLine("reverse All number****************");
+            //number.Reverse();
+            // foreach(var item in number)
+            // {
+            //     Console.Write($"{item} ");
+            // };
+            // Console.WriteLine();
+            #endregion reverse sort
+
+            List<Operator>num  = new List<Operator>()
+            {
+                new Operator {RollNo =12, Name="a", Age=25, City="ylt"},
+                new Operator {RollNo =13, Name="b", Age=22, City="ytl"},
+                new Operator {RollNo=14, Name="c" ,Age=20, City="pune"},
+                new Operator {RollNo=15, Name="a" ,Age=21, City="ytl"}
+            };
+            foreach(Operator item in num)
+            {
+                Console.WriteLine($"RollNo : {item.RollNo} Name : {item.Name} " +
+                    $"Age : {item.Age} City : {item.City}");
+            };
+            Console.WriteLine();
+
+
+            Console.WriteLine("order by acending-------");
+            // order by acending ------------
+            var result = num.OrderBy(i => i.City);
+            foreach (var item in result)
+            {
+                Console.WriteLine($"RollNo : {item.RollNo} Name : {item.Name} " +
+                    $"Age : {item.Age} City : {item.City}");
+            }
+            Console.WriteLine();
+
+
+            // sort by decending----------
+            Console.WriteLine("decending ************");
+            var result1 = num.OrderByDescending(i => i.City);
+            foreach(var item in result1)
+            {
+                Console.WriteLine($"RollNo : {item.RollNo} Name : {item.Name} " +
+                    $"Age : {item.Age} City : {item.City}");
+            }
+           
+
+            // then by sorting------------
+            Console.WriteLine("then by ************");
+            var result2 = num.OrderBy(i => i.City).ThenBy(i => i.Name);
+            foreach(var item in result2)
+            {
+                Console.WriteLine($"RollNo : {item.RollNo} Name : {item.Name} " +
+                    $"Age : {item.Age} City : {item.City}");
+            };
+            Console.WriteLine();
+
+
+            //then by decending------------
+            var result3 = num.OrderBy(i => i.City).ThenByDescending(i => i.Name);
+            foreach(var item in result3)
+            {
+                Console.WriteLine($"RollNo : {item.RollNo} Name : {item.Name} " +
+                    $"Age : {item.Age} City : {item.City}");
+            }
+
+            Console.WriteLine("------------------------------");
+            number.Reverse();
+            foreach (var item in number)
+            {
+                Console.Write($"{item}");
+            }
+           
+            Console.WriteLine("-----------------gggggg-------------");
+            var vrushabh = num.OrderBy(p => p.City);
+            foreach(var item in vrushabh)
+            {
+                 Console.WriteLine($"RollNo : {item.RollNo} Name : {item.Name} " +
+                    $"Age : {item.Age} City : {item.City}");
+            }
+            Console.ReadLine();
+
+
+            //var result = num.OrderBy(i => i.City);
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine($"RollNo : {item.RollNo} Name : {item.Name} " +
+            //        $"Age : {item.Age} City : {item.City}");
+            //}
+
+
+
+
+        }
+    }
+    public class Operator
+    {
+        public int RollNo { get; set; }
+
+        public string Name { get; set; }
+
+        public int Age { get; set; }
+
+        public string City { get; set; }
+    }
+    
+}

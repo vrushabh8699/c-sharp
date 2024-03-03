@@ -1,0 +1,8 @@
+D:\CSharp\peactice_1\SortingOperator\bin\Debug\SortingOperator.exe.config
+D:\CSharp\peactice_1\SortingOperator\bin\Debug\SortingOperator.exe
+D:\CSharp\peactice_1\SortingOperator\bin\Debug\SortingOperator.pdb
+D:\CSharp\peactice_1\SortingOperator\obj\Debug\SortingOperator.csproj.AssemblyReference.cache
+D:\CSharp\peactice_1\SortingOperator\obj\Debug\SortingOperator.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\peactice_1\SortingOperator\obj\Debug\SortingOperator.csproj.CoreCompileInputs.cache
+D:\CSharp\peactice_1\SortingOperator\obj\Debug\SortingOperator.exe
+D:\CSharp\peactice_1\SortingOperator\obj\Debug\SortingOperator.pdb
