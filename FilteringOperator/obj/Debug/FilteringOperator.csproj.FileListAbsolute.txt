@@ -1,0 +1,8 @@
+D:\CSharp\peactice_1\FilteringOperator\bin\Debug\FilteringOperator.exe.config
+D:\CSharp\peactice_1\FilteringOperator\bin\Debug\FilteringOperator.exe
+D:\CSharp\peactice_1\FilteringOperator\bin\Debug\FilteringOperator.pdb
+D:\CSharp\peactice_1\FilteringOperator\obj\Debug\FilteringOperator.csproj.AssemblyReference.cache
+D:\CSharp\peactice_1\FilteringOperator\obj\Debug\FilteringOperator.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\peactice_1\FilteringOperator\obj\Debug\FilteringOperator.csproj.CoreCompileInputs.cache
+D:\CSharp\peactice_1\FilteringOperator\obj\Debug\FilteringOperator.exe
+D:\CSharp\peactice_1\FilteringOperator\obj\Debug\FilteringOperator.pdb
